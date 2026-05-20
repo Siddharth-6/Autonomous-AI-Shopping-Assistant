@@ -90,6 +90,7 @@ workflow/
 prompts/
 screenshots/
 demo/
+docs/
 ```
 
 ---
@@ -107,7 +108,6 @@ demo/
 
 ## 📸 Demo
 
-Add screenshots and demo videos inside:
+Watch the demo here:
 
-* `/screenshots`
-* `/demo`
+[Demo Video](https://1drv.ms/v/c/938afd7577a1aa9d/IQDIlgCw1WqnSJ0Pg8sKgpIDAUJPSL4Hf2HsjmJoOfy5PF8?e=NjlKpG)
