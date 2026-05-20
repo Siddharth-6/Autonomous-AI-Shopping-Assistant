@@ -108,6 +108,4 @@ docs/
 
 ## 📸 Demo
 
-Watch the demo here:
-
-[Demo Video](https://1drv.ms/v/c/938afd7577a1aa9d/IQDIlgCw1WqnSJ0Pg8sKgpIDAUJPSL4Hf2HsjmJoOfy5PF8?e=NjlKpG)
+https://github.com/user-attachments/assets/66e4e041-e264-4e79-94cc-a7aec94e2cd4
