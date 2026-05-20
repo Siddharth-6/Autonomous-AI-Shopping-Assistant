@@ -21,16 +21,13 @@ An autonomous AI shopping assistant built using **MachinaOS** that can track pro
 
 ## ⚙️ Workflow Architecture
 
-```text
-Telegram Receive
-       ↓
-    AI Agent
-   ├── Memory
-   ├── Web Scraper
-   └── Scheduler
-       ↓
-Telegram Send
-```
+<img width="892" height="575" alt="Screenshot 2026-05-15 152710" src="https://github.com/user-attachments/assets/4e182ed3-d896-4a79-ae23-7b5fd6a676d3" />
+
+---
+
+## 📸 Demo
+
+https://github.com/user-attachments/assets/66e4e041-e264-4e79-94cc-a7aec94e2cd4
 
 ---
 
@@ -105,7 +102,3 @@ docs/
 * 📊 Better ranking and recommendation logic
 
 ---
-
-## 📸 Demo
-
-https://github.com/user-attachments/assets/66e4e041-e264-4e79-94cc-a7aec94e2cd4
